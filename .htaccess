@@ -1,0 +1,5 @@
+RewriteEngine on
+RewriteRule ^christophe$ christophe_petitjean.html [NC]
+RewriteRule ^pieter$ pieter_colpaert.html [NC]
+RewriteRule ^yeri$ yeri_tiete.html [NC]
+RewriteRule ^stefanie$ stefanie_lisabeth.html [NC]
