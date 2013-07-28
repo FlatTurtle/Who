@@ -1,6 +1,7 @@
 RewriteEngine on
-RewriteRule ^christophe$ christophe_petitjean.html [NC]
-RewriteRule ^pieter$ pieter_colpaert.html [NC]
-RewriteRule ^yeri$ yeri_tiete.html [NC]
-RewriteRule ^serge$ serge_vandaele.html [NC]
-RewriteRule ^stefanie$ stefanie_lisabeth.html [NC]
+RewriteRule ^christophe$ christophe_petitjean.html	[NC]
+RewriteRule ^pieter$ pieter_colpaert.html		[NC]
+RewriteRule ^yeri$ yeri_tiete.html			[NC]
+RewriteRule ^serge$ serge_vandaele.html			[NC]
+RewriteRule ^edouard$ edouard_moreels.html		[NC]
+RewriteRule ^stefanie$ yeri_tiete.html			[NC]
