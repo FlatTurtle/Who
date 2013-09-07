@@ -1,12 +1,13 @@
 BEGIN:VCARD
-N:Moreels;Edouard;;;
-ADR;INTL;PARCEL;WORK:;;FlatTurtle C/O Lan10, Avenue du port, 86c - 18;Brussels;;1000;Belgium
-EMAIL;INTERNET:edouard@flatturtle.com
+VERSION:3.0
+FN:Edouard Moreels
+N:Moreels;Edouard;;Mr;
 ORG:FlatTurtle
-TEL;WORK:+32 2 669 1001
-TEL;FAX;WORK:+32 2 669 1002
-TEL;CELL:+32 475 693 680
-URL;WORK:http://flatturtle.com
-URL:http://www.linkedin.com/in/edouardmoreels
+TITLE:Freelance Business Developer
+ADR;TYPE=home:;;Avenue du port\, 86c - 18;Brussels;;1000;Belgium
+EMAIL;TYPE=internet:edouard@FlatTurtle.com
+URL:https://FlatTurtle.com
+URL:http://be.linkedin.com/in/edouardmoreels
+TEL;TYPE=work;TYPE=voice:+32 2 669 10 01
+TEL;TYPE=cell;TYPE=voice:+32 475 69 36 80
 END:VCARD
-
